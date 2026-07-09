@@ -1,6 +1,6 @@
 # Hi, I'm Cheng-Chi Wu 👋
 
-🎓 Incoming Master of Engineering in Data Science student at UCLA
+🎓 Incoming M.Eng. Data Science student @ UCLA
 
 ## About Me
 
