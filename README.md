@@ -22,7 +22,7 @@ Research conducted in Professor Li-Pen Wang's group in the Department of Civil E
 - Integrated radar, rain-gauge, satellite, and event records
 - Conducted parameter experiments and visualized storm evolution
 
-The project repository is currently private while upstream licensing and laboratory data-sharing permissions are being confirmed.
+[View the Taiwan Rain-Cell Tracking portfolio](https://github.com/Cheng-Chi-Wu/taiwan-rain-cell-tracking-portfolio)
 
 ## Technical Skills
 
