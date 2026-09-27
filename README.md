@@ -6,7 +6,7 @@ I work with applied, scientific, and spatiotemporal data. My research experience
 
 ## Current Focus
 
-- Applied Data Science and Product Analytics
+- Applied Data Science and Data Analytics
 - Spatiotemporal and geospatial data
 - Statistical analysis and machine learning
 - Data visualization and research communication
