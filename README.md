@@ -1,43 +1,38 @@
-# Hi, I'm Cheng-Chi Wu 👋
+# Cheng-Chi Wu
 
-MEng Data Science student at UCLA with a Civil Engineering background from National Taiwan University.
+UCLA MEng Data Science student with a Civil Engineering background from National Taiwan University, focused on applied, product, and spatiotemporal data science.
 
-I work with applied, scientific, and spatiotemporal data. My research experience includes adapting and evaluating a rain-cell tracking workflow using radar, satellite, and rain-gauge observations.
+## Featured Projects
 
-## Current Focus
+### [E-commerce Conversion Prediction and Customer Journey Analytics](https://github.com/Cheng-Chi-Wu/ecommerce-conversion-ml)
 
-- Applied Data Science and Data Analytics
-- Spatiotemporal and geospatial data
-- Statistical analysis and machine learning
-- Data visualization and research communication
+- Analyzed 2.76 million shopping events with Python and SQL/SQLite.
+- Built leakage-aware next-day purchase prediction with chronological train/validation/test evaluation.
+- Compared Logistic Regression and Random Forest; included reproducible tests and GitHub Actions.
 
-## Featured Research
+### [Taiwan Rain-Cell Tracking and Thunderstorm Analysis](https://github.com/Cheng-Chi-Wu/taiwan-rain-cell-tracking-portfolio)
 
-### Taiwan Rain-Cell Tracking and Thunderstorm Analysis
+Research conducted in Professor Li-Pen Wang’s group in the Department of Civil Engineering at National Taiwan University.
 
-Research conducted in Professor Li-Pen Wang's group in the Department of Civil Engineering at National Taiwan University.
-
-- Adapted a UK Met Office rain-cell tracking workflow for Taiwan radar data
-- Investigated tracking failures and evaluated fallback strategies
-- Integrated radar, rain-gauge, satellite, and event records
-- Conducted parameter experiments and visualized storm evolution
-
-[View the Taiwan Rain-Cell Tracking portfolio](https://github.com/Cheng-Chi-Wu/taiwan-rain-cell-tracking-portfolio)
+- Adapted a UK Met Office tracking workflow for Taiwan radar data; the underlying tracking engine was not developed from scratch by me.
+- Worked with 2.8 million rain-gauge observations alongside radar, satellite and event records.
+- Used HDF5, scientific computing and geospatial visualization to investigate tracking failures and evaluate the adapted workflow.
 
 ## Technical Skills
 
-- **Programming:** Python, C/C++, MATLAB
-- **Data:** Pandas, NumPy, SciPy, HDF5
-- **Visualization:** Matplotlib, geospatial visualization
-- **Tools:** Git, Linux, Conda
+- **Programming:** Python, SQL, C/C++, MATLAB
+- **Data & ML:** Pandas, NumPy, SciPy, scikit-learn
+- **Databases:** SQLite
+- **Visualization:** Matplotlib, geospatial and scientific visualization
+- **Tools:** Git, GitHub Actions, Linux, Conda
 
 ## Education
 
-- **University of California, Los Angeles:** MEng in Data Science, expected September 2027
-- **National Taiwan University:** B.S. in Civil Engineering, 2026
+- **UCLA:** MEng Data Science, expected September 2027
+- **National Taiwan University:** B.S. Civil Engineering, 2026
 
 ## Currently Seeking
 
-2027 internship opportunities in Data Science, Data Analytics, and Applied Data Science in the United States.
+2027 Data Science, Product Data Science, Applied Data Science and Data Analytics internships.
 
-📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/chengchiwu)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/chengchiwu)
